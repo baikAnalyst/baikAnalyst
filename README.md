@@ -1,4 +1,5 @@
 ## 데이터 기반 투자를 추구하며 모두가 자본소득의 기쁨을 누리기 바라는 분석가
+## Data Analyst who pursues data driven investment and sharing joy of capital income
 <div align=center>
 
 </div>
