@@ -6,12 +6,12 @@
 ### Fintech Data Analytics
 
 ### Interest
-- Data Analysis
 - Invest
+- Data Analysis
 - ESG
 - Menal and Physical Wellness
 
-<div align=center>
+<div align=left>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/soniabaik) 
 
