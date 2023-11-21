@@ -1,6 +1,6 @@
 ## 데이터 기반 투자를 추구하며 모두가 자본소득의 기쁨을 누리기 바라는 분석가
 <div align=center>
-<img width="200px;" src=""/>
+
 </div>
 
 ### Fintech Data Analytics
