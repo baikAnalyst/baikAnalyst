@@ -8,7 +8,7 @@
 
 ### Interest
 - Invest
-- Data Analysis
+- Data and Information
 - ESG
 - Menal and Physical Wellness
 
