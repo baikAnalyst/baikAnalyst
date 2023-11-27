@@ -6,7 +6,7 @@
 
 ### Fintech Data Analytics
 
-### Certificate
+### National Certificate
 - ADsP (Advanced Data Analytics Semi-Professional)
 
 ### Interest
