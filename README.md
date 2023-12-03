@@ -12,7 +12,6 @@
 ### Interest
 - Invest
 - Data and Information
-- ESG
 - Menal and Physical Wellness
 
 <div align=left>
