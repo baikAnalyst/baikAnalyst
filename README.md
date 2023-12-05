@@ -10,9 +10,9 @@
 - ADsP (Advanced Data Analytics Semi-Professional)
 
 ### Interest
-- Invest
-- Data and Information
-- Menal and Physical Wellness
+- Invest 📈💵
+- Data and Information 📊📚
+- Muay Thai 🥊
 
 <div align=left>
 
