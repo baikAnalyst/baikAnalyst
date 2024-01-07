@@ -5,7 +5,7 @@
 
 </div>
 
-### Licence & Certification
+### License & Certification
 - ADsP (Advanced Data Analytics Semi-Professional)
 
 ### Interest
