@@ -1,11 +1,10 @@
-## 데이터 기반 투자
 ## 모두가 자본소득의 기쁨을 누릴 수 있기를...
-### Data Analyst who pursues data-driven investment and wants to share the joy of capital income
+### Pursuit of capital income...
 <div align=center>
 
 </div>
 
-### License & Certification
+### Certificate
 - ADsP (Advanced Data Analytics Semi-Professional)
 
 ### Interest
